@@ -1,1 +1,1 @@
-# The-Grid-Search-algo1
+# The-Grid-Search-algo1 The function scans each position in the larger grid G to check if the smaller grid P starts there. If all rows of P match sequentially within G, it returns "YES"; otherwise, it returns "NO".
